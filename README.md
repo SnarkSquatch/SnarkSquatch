@@ -18,9 +18,9 @@ If you would like to help, fork it and go for it!
 * Contributions to Privacy Enhancing Projects
 
 ## Disclosures
-I am a member of ISC2 and, as such, am beholden to their Code of Ethics. 
-  "The safety and welfare of society and the common good, duty to our principals, and duty to each other, require that we adhere, and be seen to adhere, to the highest ethical standards of behavior.
-   Protect society, the common good, necessary public trust and confidence, and the infrastructure." - ISC2 Code of Ethics Preamble
+I am a member of ISC2 and, as such, am beholden to their Code of Ethics.
+
+"The safety and welfare of society and the common good, duty to our principals, and duty to each other, require that we adhere, and be seen to adhere, to the highest ethical standards of behavior. Protect society, the common good, necessary public trust and confidence, and the infrastructure." - ISC2 Code of Ethics Preamble
    
 ### Code of Ethics
 * Act honorably, honestly, justly, responsibly, and legally.
