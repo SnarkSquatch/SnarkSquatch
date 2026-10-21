@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!
 
 ## Welcome to my profile!
 I'm a systems and security developer focused on privacy enhancing technologies, applied cryptography, and digital forensics. 
