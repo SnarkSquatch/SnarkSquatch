@@ -13,6 +13,7 @@ DFIR/Incident Response specialist focused on endpoint forensics, malware triage,
 * Vulnerability Assessments & Penetration Tests
 * System Hardening & Cloud Security
 * Applied Cryptography & Privacy-Enhancing Technologies
+* Two-stage inference pipeline: a small language model validates claims and source citations in a larger model's output before emission, reducing unsupported or hallucinated statements.
 
 ## Disclosures
 I am a member of ISC2 and, as such, am beholden to their Code of Ethics.
