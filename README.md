@@ -1,21 +1,18 @@
 # Hi there!
 
 ## Welcome to my profile!
-I'm a systems and security developer focused on privacy enhancing technologies, applied cryptography, and digital forensics. 
-I build low level tools, secure automation, and analysis utilities across Linux/Unix environment and Windows systems.
-Let me know if I can help!
+DFIR/Incident Response specialist focused on endpoint forensics, malware triage, and custom tooling. Also building privacy-enhancing and cryptographic utilities.
 
-## I'm currently working on [EBEC](https://github.com/SnarkSquatch/Epoch-Bound-Ephemeral-Cypher-EBEC)
-EBEC is a passion project meant to bring strong privacy capabilities to everyone in the form of a lightweight and easy to use Python utility.
-If you would like to help, fork it and go for it! 
+## Things I'm currently working on 
+[EBEC](https://github.com/SnarkSquatch/Epoch-Bound-Ephemeral-Cipher-EBEC)
 
 ## Things I've Worked On
-* Epistemically Disciplined Runtime Framework for Local AI models with SLM integration for enforcement
-* Vulnerability Assessments and Penetration Tests
-* Bespoke Cloud Native Environments
-* System Hardening
-* Malware Remediation
-* Contributions to Privacy Enhancing Projects
+* Malware Remediation & Endpoint Forensics
+* Incident Response & Threat Containment
+* Custom DFIR Tooling (Python, PowerShell, C/C++)
+* Vulnerability Assessments & Penetration Tests
+* System Hardening & Cloud Security
+* Applied Cryptography & Privacy-Enhancing Technologies
 
 ## Disclosures
 I am a member of ISC2 and, as such, am beholden to their Code of Ethics.
